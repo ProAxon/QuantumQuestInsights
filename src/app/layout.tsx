@@ -15,6 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'Quantum Quest Insights',
   description: 'Enterprise intelligence, research, and advisory for the ICT ecosystem.',
+  icons: {
+    icon: '/logo-bg.png',
+    apple: '/logo-bg.png',
+  },
 };
 
 export default function RootLayout({
