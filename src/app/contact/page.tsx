@@ -158,7 +158,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="text-slate-400 text-sm">Phone</h3>
-                      <a href="#" className="text-white hover:text-cyan-300 transition-colors">
+                      <a href="https://www.linkedin.com/company/quantumquestinsights/about/" className="text-white hover:text-cyan-300 transition-colors">
                         Quantum Quest Insights
                       </a>
                     </div>
